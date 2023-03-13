@@ -15,12 +15,7 @@
 </template>
 
 <script>
-export default {
-  data: () => ({
-    drawer: false,
-    group: null,
-  }),
-};
+export default {};
 </script>
 
 <style scoped></style>
